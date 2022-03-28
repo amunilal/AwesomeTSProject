@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419177729915",
+    "firebase_url": "https://mrp-money-in-store-tool.firebaseio.com",
+    "project_id": "mrp-money-in-store-tool",
+    "storage_bucket": "mrp-money-in-store-tool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419177729915:android:9838b631c779b7754fb7de",
+        "android_client_info": {
+          "package_name": "com.mrpmoneyinstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419177729915-39m8pplheiqjijd7001h5sq73p7s8sca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGkEEqgtAeAuQXNfpyWYAdGCbTNC4Tho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419177729915-39m8pplheiqjijd7001h5sq73p7s8sca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419177729915-imd6mumk1ih6qq6j9lm98em0dtej9po8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrpg.money.instore-tool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
